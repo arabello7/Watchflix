@@ -1,0 +1,23 @@
+Example usage for testing:
+
+menu
+trackseries
+BoxingGala
+back
+watchmovie
+Inception
+back
+trackseries
+RickAndMorty
+GameOfThrones
+Glee
+bacl
+back
+myseries
+remove Glee
+watch RickAndMorty
+watch RickAndMorty
+back
+wait 100
+logout
+exit

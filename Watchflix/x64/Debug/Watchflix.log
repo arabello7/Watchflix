@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Advice.cpp
+  Commands.cpp
+  Movie.cpp
+  SerialPot.cpp
+  Series.cpp
+  Time.cpp
+  Watchflix.cpp
+  Stream.cpp
+  Generowanie kodu...
+c:\users\tomas\desktop\watchflix\watchflix\stream.cpp(108): warning C4715: "Stream::selectStream”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomas\desktop\watchflix\watchflix\watchflix.cpp(106): warning C4715: "getCommand”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomas\desktop\watchflix\watchflix\serialpot.cpp(112): warning C4715: "SerialPot::seriesManager”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomas\desktop\watchflix\watchflix\serialpot.cpp(126): warning C4715: "SerialPot::selectSeries”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\tomas\desktop\watchflix\watchflix\movie.cpp(60): warning C4715: "Movie::selectMovie”: niewszystkie ścieżki kodu zwracają wartość
+  Watchflix.vcxproj -> C:\Users\tomas\Desktop\Watchflix\x64\Debug\Watchflix.exe

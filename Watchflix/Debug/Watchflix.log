@@ -1,0 +1,3 @@
+﻿  Stream.cpp
+c:\users\tomas\documents\c++ documents\obiektowość\watchflix\watchflix\stream.cpp(108): warning C4715: "Stream::selectStream”: niewszystkie ścieżki kodu zwracają wartość
+  Watchflix.vcxproj -> C:\Users\tomas\Documents\C++ documents\Obiektowość\Watchflix\Debug\Watchflix.exe

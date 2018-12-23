@@ -1,0 +1,10 @@
+GameOfThrones 8.9 70 18 60
+BojackHorseman 8.6 25 16 60
+RickAndMorty 8.8 25 16 33
+PeakyBlinders 8.6 45 16 24
+Glee 7.3 45 12 121
+Dark 8.5 60 12 10
+13ReasonsWhy 7.4 45 16 26
+MindHunter 7.9 45 16 10
+BatesMotel 7.7 45 12 50
+Legion 7.9 45 12 19
